@@ -1,0 +1,7 @@
+POST http://127.0.0.1:7001/add_User
+Content-Type:  application/json
+
+{   "id":0,
+    "name":"赵晓做"
+    // "age" : 18
+}
